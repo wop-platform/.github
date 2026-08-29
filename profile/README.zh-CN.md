@@ -28,6 +28,14 @@
 2. **选择 SDK** — 根据开发语言选择官方 SDK（见下表）
 3. **开始开发** — 参考 [API 文档](https://open.wanlianyida.com/docs) 发起第一次调用
 
+## 📜 公开规格
+
+全部对外协议规格、SDK 统一规格与跨语言黄金测试向量集中在 [wop-specs](https://github.com/wop-platform/wop-specs)：
+
+- [加密协议 Spec](https://github.com/wop-platform/wop-specs/blob/main/crypto/crypto-strategy-spec.md) — `securityReq` 算法套件、线上编码契约、协议不变式
+- [SDK 统一规格](https://github.com/wop-platform/wop-specs/blob/main/sdk/wop-sdk-spec.md) — 六语言官方 SDK 的统一规格（v1.0-ratified）
+- [黄金测试向量](https://github.com/wop-platform/wop-specs/blob/main/crypto/crypto-vectors.json) — 跨语言字节级一致性基准
+
 ## 🛠️ 核心产品
 
 ### SDK 开发工具包

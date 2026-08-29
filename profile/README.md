@@ -28,6 +28,14 @@ WOP Platform (Wanlian Yida Open Platform) is a one-stop industrial service platf
 2. **Pick an SDK** — Choose the official SDK for your language (see the table below)
 3. **Start building** — Follow the [API Documentation](https://open.wanlianyida.com/docs) to make your first call
 
+## 📜 Specifications
+
+All public protocol specifications, the unified SDK specification, and cross-language golden test vectors live in [wop-specs](https://github.com/wop-platform/wop-specs):
+
+- [Crypto Strategy Spec](https://github.com/wop-platform/wop-specs/blob/main/crypto/crypto-strategy-spec.md) — `securityReq` algorithm suites, wire encoding contracts, protocol invariants
+- [SDK Unified Spec](https://github.com/wop-platform/wop-specs/blob/main/sdk/wop-sdk-spec.md) — the ratified spec behind all official SDKs
+- [Golden Test Vectors](https://github.com/wop-platform/wop-specs/blob/main/crypto/crypto-vectors.json) — cross-language byte-level conformance anchor
+
 ## 🛠️ Core Products
 
 ### SDK Development Kits
