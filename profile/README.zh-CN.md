@@ -42,14 +42,16 @@
 
 我们为不同编程语言提供了官方SDK，让您快速集成平台服务能力：
 
-| 语言 | 仓库 | Stars | 文档 |
-| ------ | ------ | ----- | ------ |
-| ☕ Java | [wop-java-sdk](https://github.com/wop-platform/wop-java-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-java-sdk) | [查看文档](https://github.com/wop-platform/wop-java-sdk#readme) |
-| 🐍 Python | [wop-python-sdk](https://github.com/wop-platform/wop-python-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-python-sdk) | [查看文档](https://github.com/wop-platform/wop-python-sdk#readme) |
-| 🟦 TypeScript | [wop-typescript-sdk](https://github.com/wop-platform/wop-typescript-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-typescript-sdk) | [查看文档](https://github.com/wop-platform/wop-typescript-sdk#readme) |
-| 🐘 PHP | [wop-php-sdk](https://github.com/wop-platform/wop-php-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-php-sdk) | [查看文档](https://github.com/wop-platform/wop-php-sdk#readme) |
-| 🔷 .Net | [wop-dotnet-sdk](https://github.com/wop-platform/wop-dotnet-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-dotnet-sdk) | [查看文档](https://github.com/wop-platform/wop-dotnet-sdk#readme) |
-| 🐹 Go | [wop-go-sdk](https://github.com/wop-platform/wop-go-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-go-sdk) | [查看文档](https://github.com/wop-platform/wop-go-sdk#readme) |
+| 语言 | 仓库 | Stars | 文档 | Channel |
+| ------ | ------ | ----- | ------ | ------- |
+| ☕ Java | [wop-java-sdk](https://github.com/wop-platform/wop-java-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-java-sdk) | [查看文档](https://github.com/wop-platform/wop-java-sdk#readme) | Maven Central（planned） |
+| 🐍 Python | [wop-python-sdk](https://github.com/wop-platform/wop-python-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-python-sdk) | [查看文档](https://github.com/wop-platform/wop-python-sdk#readme) | [PyPI](https://pypi.org/project/wop-python-sdk/) |
+| 🟦 TypeScript | [wop-typescript-sdk](https://github.com/wop-platform/wop-typescript-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-typescript-sdk) | [查看文档](https://github.com/wop-platform/wop-typescript-sdk#readme) | [npm](https://www.npmjs.com/package/@wanlianyida/wop-typescript-sdk) |
+| 🐘 PHP | [wop-php-sdk](https://github.com/wop-platform/wop-php-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-php-sdk) | [查看文档](https://github.com/wop-platform/wop-php-sdk#readme) | [Packagist](https://packagist.org/packages/wop-platform/wop-php-sdk) |
+| 🔷 .Net | [wop-dotnet-sdk](https://github.com/wop-platform/wop-dotnet-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-dotnet-sdk) | [查看文档](https://github.com/wop-platform/wop-dotnet-sdk#readme) | NuGet（planned） |
+| 🐹 Go | [wop-go-sdk](https://github.com/wop-platform/wop-go-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-go-sdk) | [查看文档](https://github.com/wop-platform/wop-go-sdk#readme) | [Go](https://pkg.go.dev/github.com/wop-platform/wop-go-sdk) |
+
+
 
 ### 示例项目
 
