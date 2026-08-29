@@ -48,7 +48,7 @@ We provide official SDKs for different programming languages to help you quickly
 | 🐍 Python | [wop-python-sdk](https://github.com/wop-platform/wop-python-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-python-sdk) | [View Docs](https://github.com/wop-platform/wop-python-sdk#readme) | [PyPI](https://pypi.org/project/wop-python-sdk/) |
 | 🟦 TypeScript | [wop-typescript-sdk](https://github.com/wop-platform/wop-typescript-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-typescript-sdk) | [View Docs](https://github.com/wop-platform/wop-typescript-sdk#readme) | [npm](https://www.npmjs.com/package/@wanlianyida/wop-typescript-sdk) |
 | 🐹 Go | [wop-go-sdk](https://github.com/wop-platform/wop-go-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-go-sdk) | [View Docs](https://github.com/wop-platform/wop-go-sdk#readme) | [Go](https://pkg.go.dev/github.com/wop-platform/wop-go-sdk) |
-| 🔷 .NET | [wop-dotnet-sdk](https://github.com/wop-platform/wop-dotnet-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-dotnet-sdk) | [View Docs](https://github.com/wop-platform/wop-dotnet-sdk#readme) | NuGet（planned） |
+| 🔷 .NET | [wop-dotnet-sdk](https://github.com/wop-platform/wop-dotnet-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-dotnet-sdk) | [View Docs](https://github.com/wop-platform/wop-dotnet-sdk#readme) | [NuGet](https://www.nuget.org/packages/Wop.Sdk/) |
 | 🐘 PHP | [wop-php-sdk](https://github.com/wop-platform/wop-php-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-php-sdk) | [View Docs](https://github.com/wop-platform/wop-php-sdk#readme) | [Packagist](https://packagist.org/packages/wop-platform/wop-php-sdk) |
 
 
