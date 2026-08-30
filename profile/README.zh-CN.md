@@ -1,7 +1,7 @@
 # 万联易达开放平台 (WOP Platform) 👋
 
 <div align="center">
-<img src="logo_3x-black.BGQXcMOp.webp" alt="WOP Logo" width="600">
+<img src="https://raw.githubusercontent.com/wop-platform/.github/refs/heads/main/profile/logo_3x-black.BGQXcMOp.webp" alt="WOP Logo" width="600">
 
 **万联易达开放平台 - 为开发者提供一站式数智化产业服务**
 
