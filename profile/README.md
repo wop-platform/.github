@@ -1,7 +1,7 @@
 # WOP Platform (万联易达开放平台) 👋
 
 <div align="center">
-<img src="logo_3x-black.BGQXcMOp.webp" alt="WOP Logo" width="600">
+<img src="https://raw.githubusercontent.com/wop-platform/.github/refs/heads/main/profile/logo_3x-black.BGQXcMOp.webp" alt="WOP Logo" width="600">
 
 **WOP Platform - One-stop Industrial Services for Developers**
 
