@@ -44,7 +44,7 @@ We provide official SDKs for different programming languages to help you quickly
 
 | Language | Repository | Stars | Documentation | Channel |
 | ---------- | ------------ | ----- | --------------- | ------- |
-| ☕ Java | [wop-java-sdk](https://github.com/wop-platform/wop-java-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-java-sdk) | [View Docs](https://github.com/wop-platform/wop-java-sdk#readme) | Maven Central（planned） |
+| ☕ Java | [wop-java-sdk](https://github.com/wop-platform/wop-java-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-java-sdk) | [View Docs](https://github.com/wop-platform/wop-java-sdk#readme) | [Maven Central](https://central.sonatype.com/artifact/com.wanlianyida/wop-java-sdk) |
 | 🐍 Python | [wop-python-sdk](https://github.com/wop-platform/wop-python-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-python-sdk) | [View Docs](https://github.com/wop-platform/wop-python-sdk#readme) | [PyPI](https://pypi.org/project/wop-python-sdk/) |
 | 🟦 TypeScript | [wop-typescript-sdk](https://github.com/wop-platform/wop-typescript-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-typescript-sdk) | [View Docs](https://github.com/wop-platform/wop-typescript-sdk#readme) | [npm](https://www.npmjs.com/package/@wanlianyida/wop-typescript-sdk) |
 | 🐹 Go | [wop-go-sdk](https://github.com/wop-platform/wop-go-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-go-sdk) | [View Docs](https://github.com/wop-platform/wop-go-sdk#readme) | [Go](https://pkg.go.dev/github.com/wop-platform/wop-go-sdk) |

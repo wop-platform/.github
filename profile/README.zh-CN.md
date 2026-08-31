@@ -44,7 +44,7 @@
 
 | 语言 | 仓库 | Stars | 文档 | Channel |
 | ------ | ------ | ----- | ------ | ------- |
-| ☕ Java | [wop-java-sdk](https://github.com/wop-platform/wop-java-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-java-sdk) | [查看文档](https://github.com/wop-platform/wop-java-sdk#readme) | Maven Central（planned） |
+| ☕ Java | [wop-java-sdk](https://github.com/wop-platform/wop-java-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-java-sdk) | [查看文档](https://github.com/wop-platform/wop-java-sdk#readme) | [Maven Central](https://central.sonatype.com/artifact/com.wanlianyida/wop-java-sdk) |
 | 🐍 Python | [wop-python-sdk](https://github.com/wop-platform/wop-python-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-python-sdk) | [查看文档](https://github.com/wop-platform/wop-python-sdk#readme) | [PyPI](https://pypi.org/project/wop-python-sdk/) |
 | 🟦 TypeScript | [wop-typescript-sdk](https://github.com/wop-platform/wop-typescript-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-typescript-sdk) | [查看文档](https://github.com/wop-platform/wop-typescript-sdk#readme) | [npm](https://www.npmjs.com/package/@wanlianyida/wop-typescript-sdk) |
 | 🐘 PHP | [wop-php-sdk](https://github.com/wop-platform/wop-php-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-php-sdk) | [查看文档](https://github.com/wop-platform/wop-php-sdk#readme) | [Packagist](https://packagist.org/packages/wop-platform/wop-php-sdk) |
