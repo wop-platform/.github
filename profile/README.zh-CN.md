@@ -59,11 +59,9 @@
 
 WOP 开放平台官方 Agent 能力——当前提供技能包，MCP 工具等持续扩展——让每一个商户 Agent 安全、正确地完成 API 对接。
 
-- 🤖 [wop-skills](https://github.com/wop-platform/wop-skills) — 零代码 API 对接技能包：wop-cli（签名→调用→验签）、wop-dev（协议心智模型）、wop-troubleshoot（62 错误码排错） ![Tests](https://img.shields.io/badge/tests-73%20passed-brightgreen) ![Coverage](https://img.shields.io/badge/line%20coverage-97%25-brightgreen) ![Stars](https://img.shields.io/github/stars/wop-platform/wop-skills)
+- 🤖 [wop-skills](https://github.com/wop-platform/wop-skills) — 零代码 API 对接技能包：wop-cli（签名→调用→验签）、wop-dev（协议心智模型）、wop-troubleshoot（62 错误码排错）
 
 ### 示例项目
-
-- 🤖 [WOP MCP](https://github.com/wop-platform/wop-mcp)
 
 ## 🌈 如何参与贡献
 
