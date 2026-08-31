@@ -55,6 +55,12 @@ We provide official SDKs for different programming languages to help you quickly
 
 - 🧰 [WOP Web Tools](https://github.com/wop-platform/wop-web-tools) — browser-based merchant workbench: keypair generation, request crafting & debugging, offline verification. Static single file, keys are generated locally and never leave the browser.
 
+### Agent
+
+Official agent capabilities for the WOP Open Platform — skills today, MCP tools and more on the way — so every merchant agent signs, calls and verifies, correctly.
+
+- 🤖 [wop-skills](https://github.com/wop-platform/wop-skills) — Zero-code API integration skills: wop-cli (sign → call → verify), wop-dev (protocol mental model), wop-troubleshoot (62 error codes) ![Tests](https://img.shields.io/badge/tests-73%20passed-brightgreen) ![Coverage](https://img.shields.io/badge/line%20coverage-97%25-brightgreen) ![Stars](https://img.shields.io/github/stars/wop-platform/wop-skills)
+
 ### Sample Projects
 
 - 🤖 [WOP MCP](https://github.com/wop-platform/wop-mcp)
