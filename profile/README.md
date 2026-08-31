@@ -51,7 +51,9 @@ We provide official SDKs for different programming languages to help you quickly
 | 🔷 .NET | [wop-dotnet-sdk](https://github.com/wop-platform/wop-dotnet-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-dotnet-sdk) | [View Docs](https://github.com/wop-platform/wop-dotnet-sdk#readme) | [NuGet](https://www.nuget.org/packages/Wop.Sdk/) |
 | 🐘 PHP | [wop-php-sdk](https://github.com/wop-platform/wop-php-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-php-sdk) | [View Docs](https://github.com/wop-platform/wop-php-sdk#readme) | [Packagist](https://packagist.org/packages/wop-platform/wop-php-sdk) |
 
+### Web Tools
 
+- 🧰 [WOP Web Tools](https://github.com/wop-platform/wop-web-tools) — browser-based merchant workbench: keypair generation, request crafting & debugging, offline verification. Static single file, keys are generated locally and never leave the browser.
 
 ### Sample Projects
 
