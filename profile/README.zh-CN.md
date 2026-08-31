@@ -51,7 +51,9 @@
 | 🔷 .Net | [wop-dotnet-sdk](https://github.com/wop-platform/wop-dotnet-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-dotnet-sdk) | [查看文档](https://github.com/wop-platform/wop-dotnet-sdk#readme) | [NuGet](https://www.nuget.org/packages/Wop.Sdk/) |
 | 🐹 Go | [wop-go-sdk](https://github.com/wop-platform/wop-go-sdk) | ![Stars](https://img.shields.io/github/stars/wop-platform/wop-go-sdk) | [查看文档](https://github.com/wop-platform/wop-go-sdk#readme) | [Go](https://pkg.go.dev/github.com/wop-platform/wop-go-sdk) |
 
+### 在线工具
 
+- 🧰 [WOP Web Tools](https://github.com/wop-platform/wop-web-tools) — 浏览器端商户工作台：密钥生成、报文联调、离线验证。纯静态单文件，密钥本地生成、零上传。
 
 ### 示例项目
 
