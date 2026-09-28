@@ -57,11 +57,13 @@
 
 ### Agent
 
-WOP 开放平台官方 Agent 能力——当前提供技能包，MCP 工具等持续扩展——让每一个商户 Agent 安全、正确地完成 API 对接。
+WOP 开放平台官方 Agent 能力——当前提供技能包与 MCP Server，持续扩展——让每一个商户 Agent 安全、正确地完成 API 对接。
 
 - 🤖 [wop-skills](https://github.com/wop-platform/wop-skills) — 零代码 API 对接技能包：wop-cli（签名→调用→验签）、wop-dev（协议心智模型）、wop-troubleshoot（62 错误码排错）
+- 🧩 [wop-mcp](https://github.com/wop-platform/wop-mcp) — MCP Server：文档三件套（overview / API detail / link detail）+ 密钥对生成（RSA2048 / SM2）；`uvx wop-mcp` 即用 — [PyPI](https://pypi.org/project/wop-mcp/)
 
 ### 示例项目
+- 🌱 [wop-java-showcase](https://github.com/wop-platform/wop-java-showcase) — wop-java-sdk 商户侧 Spring Boot 接入示例：JSON 配置 → `@Bean` WopClient → execute 调用 / 每笔覆盖 / 请求预览
 
 ## 🌈 如何参与贡献
 
