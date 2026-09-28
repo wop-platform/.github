@@ -57,11 +57,13 @@ We provide official SDKs for different programming languages to help you quickly
 
 ### Agent
 
-Official agent capabilities for the WOP Open Platform — skills today, MCP tools and more on the way — so every merchant agent signs, calls and verifies, correctly.
+Official agent capabilities for the WOP Open Platform — skills and an MCP server today, more on the way — so every merchant agent signs, calls and verifies, correctly.
 
 - 🤖 [wop-skills](https://github.com/wop-platform/wop-skills) — Zero-code API integration skills: wop-cli (sign → call → verify), wop-dev (protocol mental model), wop-troubleshoot (62 error codes)
+- 🧩 [wop-mcp](https://github.com/wop-platform/wop-mcp) — MCP Server for AI assistants: WOP docs trio (overview / API detail / link detail) + keypair generation (RSA2048 / SM2); runs via `uvx wop-mcp` — [PyPI](https://pypi.org/project/wop-mcp/)
 
 ### Sample Projects
+- 🌱 [wop-java-showcase](https://github.com/wop-platform/wop-java-showcase) — Spring Boot integration sample for wop-java-sdk: JSON config → `@Bean` WopClient → execute calls / per-call override / request preview
 
 ## 🌈 How to Contribute
 
